@@ -17,9 +17,7 @@
 ```
 
 ## Requirements
-
 - JDK 12 or later
-- Maven 3.8.1 or later
 
 ## How to run
 ```shell
