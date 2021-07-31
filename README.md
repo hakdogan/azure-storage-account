@@ -23,3 +23,6 @@
 ```shell
 mvn spring-boot:run
 ```
+
+## Relecant article is
+[How to Serve Azure Storage Resources with Grant Limited Access using SAS?](https://hakdogan.medium.com/how-to-serve-azure-storage-resources-with-grant-limited-access-using-sas-a0dde4fc36bd)
